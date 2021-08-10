@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(238, 218, 106);
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+.main-p {
+  width: 23em;
+}
+.botones-div {
+  display: flex;
+  width: 23em;
+}
+#card-padre {
+  display: flex;
+  flex-direction: column;
+  height: 27em;
+  width: 23em;
+  background-color: white;
+}
+#card-menu {
+  height: 7em;
+  width: 23em;
+  background-color: violet;
+}
+.div-h1 {
+  display: flex;
+  justify-content: space-around;
+}
+.div-start {
+  height: 32px;
+  width: 13em;
+  background: darkmagenta;
+  margin-top: 28px;
+  margin-left: 5em;
+  border-radius: 50em;
+}
+.boton1 {
+  width: 100px;
+  height: 45px;
+  border-radius: 28px;
+  background: blue;
+}
+#boton-dos {
+  width: 5em;
+  height: 4em;
+  background: orange;
+  border-radius: 50%;
+}
+#boton-tres {
+  width: 5em;
+  height: 4em;
+  background: red;
+  border-radius: 50%;
+}
